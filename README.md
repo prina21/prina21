@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prina</h1>
-<h3 align="center">A passionate Software Engineer currently working as a Technology Consultant at Morgan Stanley with the Securities Settlements team.</h3>
+<h3 align="center">A passionate Software Engineer currently pursuing Master's in Computer Science from University of California, Irvine. Prior to this, I worked at Morgan Stanley as a Technology Consultant, where I gained hands-on experience with technologies such as Java, Spring Boot, Microsoft Azure, and REST APIs. One of my key contributions was automating the settlement process for failed trades, significantly improving operational efficiency. Before joining Morgan Stanley, I completed my undergraduate studies in Information Technology, where I worked on various internships and projects involving technologies like ReactJS, MySQL, Django, Deep Learning, etc. These experiences helped me build a solid foundation in both front-end and back-end development. And now, I am excited to continue applying my skills in Software Engineering while also growing professionally in new and challenging environments.</h3>
 
 - 🌱 I’m currently learning **Java Frameworks**
 
